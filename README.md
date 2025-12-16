@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nruizbueno1
-- 👀 I’m interested in data analysis and becoming a full-stack developer
-- 🌱 I’m currently learning Pyhton and I'm following the cirriculum in the Odin Project
+- 👀 I’m interested in data science and becoming a full-stack developer
+- 🌱 I’m currently learning Pyhton and I'm following the cirriculum in IBM's Data Science course on Coursera
 - 💞️ I’m looking to collaborate on projects that will push my abilities and force me to learn more lol
 - 📫 How to reach me realbueno3@gmail.com
 
